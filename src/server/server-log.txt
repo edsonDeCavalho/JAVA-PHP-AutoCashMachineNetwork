@@ -1,0 +1,89 @@
+2020-12-09 15:18:40 INFO  Server:198 - Normal Start
+2020-12-09 15:18:48 INFO  Server:230 - New client Accepted
+2020-12-09 15:18:48 INFO  Server:237 - New client (self check out machine) added to the list of Clients
+2020-12-09 15:18:48 INFO  Server:238 - Start of the new thread
+2020-12-09 15:18:59 INFO  Server:70 - Starting the Order
+2020-12-09 15:19:15 INFO  Server:218 - The article 32199003 it's correct
+2020-12-09 15:19:15 INFO  Server:101 - Existence of promo for the article :32199003
+2020-12-09 15:19:15 INFO  Server:160 - Name of the article : Bougeoir en métal
+2020-12-09 15:19:15 INFO  Server:107 - Getting the promo of the article :32199003
+2020-12-09 15:19:15 INFO  Server:81 - Getting the new price of the article 
+2020-12-09 15:19:15 INFO  Server:160 - Name of the article : Bougeoir en métal
+2020-12-09 15:19:15 INFO  Server:107 - Getting the promo of the article :32199003
+2020-12-09 15:19:15 INFO  Server:81 - Getting the new price of the article 
+2020-12-09 15:20:06 INFO  Server:188 - The card 461110 it's correct
+2020-12-09 15:20:06 INFO  Server:250 - Getting the customer whith the number of card 461110 
+2020-12-09 15:20:06 ERROR Server:147 - Total price calculated
+2020-12-09 15:20:10 INFO  Server:155 - Order confirmed by the client
+2020-12-09 15:20:15 INFO  Server:172 - Payment method :cash
+2020-12-09 15:20:15 INFO  Server:175 - Starting insertions in data base
+2020-12-09 15:20:15 INFO  Server:353 - Insertion in the table contain
+2020-12-09 15:20:15 INFO  Server:325 - Geting the points of the custmer : 1 
+2020-12-09 15:20:15 INFO  Server:387 - The new Points of the customer1 is 54
+2020-12-09 15:20:16 INFO  Server:373 - The points of the customer 1 have beeen update
+2020-12-09 15:20:16 INFO  Server:144 - Printing the facture
+2020-12-09 15:20:16 INFO  Server:186 - Restarting the 
+2020-12-09 15:44:37 INFO  Server:198 - Normal Start
+2020-12-09 15:44:47 INFO  Server:230 - New client Accepted
+2020-12-09 15:44:48 INFO  Server:237 - New client (self check out machine) added to the list of Clients
+2020-12-09 15:44:48 INFO  Server:238 - Start of the new thread
+2020-12-09 15:44:57 INFO  MultiServer:70 - Starting the Order
+2020-12-09 15:45:25 INFO  DBconnection:218 - The article 32199002 it's correct
+2020-12-09 15:45:25 INFO  MultiServer:101 - Existence of promo for the article :32199002
+2020-12-09 15:45:25 INFO  DBconnection:160 - Name of the article : Parure de couette en lin lavé
+2020-12-09 15:45:25 INFO  DBconnection:107 - Getting the promo of the article :32199002
+2020-12-09 15:45:25 INFO  DBconnection:81 - Getting the new price of the article 
+2020-12-09 15:45:26 INFO  DBconnection:160 - Name of the article : Parure de couette en lin lavé
+2020-12-09 15:45:26 INFO  DBconnection:107 - Getting the promo of the article :32199002
+2020-12-09 15:45:26 INFO  DBconnection:81 - Getting the new price of the article 
+2020-12-09 15:45:36 INFO  DBconnection:218 - The article 32199005 it's correct
+2020-12-09 15:45:36 INFO  MultiServer:109 - Not existence of promo for the article :32199005
+2020-12-09 15:45:36 INFO  DBconnection:160 - Name of the article : Cadre en bois
+2020-12-09 15:45:36 INFO  DBconnection:295 - Getting the price of the article 32199005 
+2020-12-09 15:45:36 INFO  DBconnection:160 - Name of the article : Cadre en bois
+2020-12-09 15:45:36 INFO  DBconnection:295 - Getting the price of the article 32199005 
+2020-12-09 15:45:58 INFO  DBconnection:218 - The article 32199006 it's correct
+2020-12-09 15:45:58 INFO  MultiServer:109 - Not existence of promo for the article :32199006
+2020-12-09 15:45:58 INFO  DBconnection:160 - Name of the article : Hoodie Relaxed Fit
+2020-12-09 15:45:58 INFO  DBconnection:295 - Getting the price of the article 32199006 
+2020-12-09 15:45:58 INFO  DBconnection:160 - Name of the article : Hoodie Relaxed Fit
+2020-12-09 15:45:58 INFO  DBconnection:295 - Getting the price of the article 32199006 
+2020-12-09 15:46:36 INFO  DBconnection:188 - The card 461110 it's correct
+2020-12-09 15:46:36 INFO  DBconnection:250 - Getting the customer whith the number of card 461110 
+2020-12-09 15:46:36 ERROR MultiServer:147 - Total price calculated
+2020-12-09 15:46:41 INFO  MultiServer:155 - Order confirmed by the client
+2020-12-09 15:46:48 INFO  MultiServer:172 - Payment method :credit_card
+2020-12-09 15:46:48 INFO  MultiServer:175 - Starting insertions in data base
+2020-12-09 15:46:48 INFO  DBconnection:353 - Insertion in the table contain
+2020-12-09 15:46:48 INFO  DBconnection:325 - Geting the points of the custmer : 1 
+2020-12-09 15:46:48 INFO  DBconnection:387 - The new Points of the customer1 is 60
+2020-12-09 15:46:49 INFO  DBconnection:373 - The points of the customer 1 have beeen update
+2020-12-09 15:46:49 INFO  Order:144 - Printing the facture
+2020-12-09 15:46:49 INFO  MultiServer:186 - Restarting the Operation
+2020-12-09 16:15:58 INFO  Server:137 - Verification of new port sucssecefoul
+2020-12-09 16:16:27 ERROR Server:99 - We can't reach to this host
+2020-12-09 16:16:27 ERROR Server:162 - The format of the IP is not valid
+2020-12-09 16:16:45 INFO  Server:94 - Host is reachable
+2020-12-09 16:16:45 INFO  Server:155 - Verification of Ip sccecssfoul
+2020-12-09 16:16:45 INFO  Server:157 - New Ip definided
+2020-12-09 16:16:45 INFO  Server:225 - Custom Start
+2020-12-09 16:20:02 INFO  Server:137 - Verification of new port sucssecefoul
+2020-12-09 16:20:10 INFO  Server:94 - Host is reachable
+2020-12-09 16:20:10 INFO  Server:155 - Verification of Ip sccecssfoul
+2020-12-09 16:20:10 INFO  Server:157 - New Ip definided
+2020-12-09 16:20:10 INFO  Server:225 - Custom Start
+2020-12-09 16:20:10 ERROR Server:187 - Port and Ip alredy used
+2020-12-09 16:20:37 INFO  Server:229 - Normal Start
+2020-12-09 16:20:47 INFO  Server:229 - Normal Start
+2020-12-09 16:20:47 ERROR Server:205 - Custom Start Failed
+2020-12-09 16:21:13 INFO  Server:137 - Verification of new port sucssecefoul
+2020-12-09 16:21:21 INFO  Server:94 - Host is reachable
+2020-12-09 16:21:21 INFO  Server:155 - Verification of Ip sccecssfoul
+2020-12-09 16:21:21 INFO  Server:157 - New Ip definided
+2020-12-09 16:21:21 INFO  Server:225 - Custom Start
+2020-12-09 16:21:37 INFO  Server:137 - Verification of new port sucssecefoul
+2020-12-09 16:21:51 INFO  Server:94 - Host is reachable
+2020-12-09 16:21:51 INFO  Server:155 - Verification of Ip sccecssfoul
+2020-12-09 16:21:51 INFO  Server:157 - New Ip definided
+2020-12-09 16:21:51 INFO  Server:225 - Custom Start
+2020-12-09 16:21:51 ERROR Server:187 - Port and Ip alredy used
