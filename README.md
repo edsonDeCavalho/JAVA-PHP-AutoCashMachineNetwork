@@ -4,6 +4,9 @@ This project is a network system made up to simulate a auto-cash-machine network
 it's cmposed by server in Java that communicates with the database server in PostegrsSQL. Finally the system  
 have a web application .
 
+Video :
+https://www.youtube.com/watch?v=a8y88PjshYM
+
 
 ## Installation
 
